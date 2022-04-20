@@ -1,0 +1,8 @@
+{
+    "name": "@bighuman/dependent",
+    "version": "0.0.1-npm-link",
+    "main": "./index.js",
+    "dependencies": {
+        "@bighuman/dependency": "file:../dependency"
+    }
+}
